@@ -1,0 +1,33 @@
+# Модели машинного обучения
+/models
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Виртуальное окружение
+venv/
+env/
+ENV/
+.venv/
+.env/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+
+# Системные файлы
+.DS_Store
+Thumbs.db
